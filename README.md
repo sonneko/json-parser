@@ -1,2 +1,2 @@
-# simple-json-parser
+# json-parser
 シンプルなRust製JSONパーサークレート
